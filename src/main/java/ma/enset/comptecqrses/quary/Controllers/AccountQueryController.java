@@ -5,7 +5,7 @@ import ma.enset.comptecqrses.commonapi.queries.GetAccountQuery;
 import ma.enset.comptecqrses.commonapi.queries.GetAllAccountQuery;
 import ma.enset.comptecqrses.quary.entites.Account;
 import org.axonframework.messaging.responsetypes.ResponseTypes;
-import org.axonframework.queryhandling.QueryGateway
+import org.axonframework.queryhandling.QueryGateway;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
